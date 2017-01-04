@@ -1,0 +1,19 @@
+{
+  "name": "smartthings-auth-example",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "..."
+  },
+  "readme": "ERROR: No README data found!",
+  "main": "smartthings_auth.js",
+  "author": "",
+  "dependencies": {
+	"hapi":"*",
+	"inert":"*",
+	"request":"*",
+	"simple-oauth2":"*"
+  }
+}
