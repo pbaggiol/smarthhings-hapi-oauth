@@ -1,4 +1,4 @@
-# smarthhings-hapi-oauth
+# smartthings-hapi-oauth
 
 This is a standalone webserver (example) listening on port 3999, which calls the smartthings OAuth workflow to give
 you all the details you need to make Web Services requests to your smartapp.  This example is based on prior
